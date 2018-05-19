@@ -1877,7 +1877,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #eb57e4;
+  background: #a3f666;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3204,4 +3204,11 @@ a#download {
 a#download:hover {
   background: #000;
   color: #fff;
+}
+.post-copyright {
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #60a3ec;
+  background-color: #f9f9f9;
+  list-style: none;
 }
