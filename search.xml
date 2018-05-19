@@ -4,5 +4,8 @@
     <title><![CDATA[Origion]]></title>
     <url>%2Funcategorized%2FOrigion%2F</url>
     <content type="text"><![CDATA[First post! 支持Markdown]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
   </entry>
 </search>
